@@ -38,8 +38,8 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  color: dark!important;
-  background-color: #191970!important;
+  color: dark;
+  background-color: #191970;
 }
 
 h1 {
@@ -48,8 +48,13 @@ h1 {
   color: white;
 }
 
+h2 {
+  color: black;
+}
+
 p {
-  padding: 1rem;
+  padding: 2rem;
+  color: black;
 }
 
 button {
